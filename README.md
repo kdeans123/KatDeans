@@ -8,7 +8,7 @@ I'm a dedicated Frontend Software Developer passionate about creating intuitive,
 
 * 🌍  I'm based in Washington, DC
 * ✉️  You can contact me at [kat.m.deans@gmail.com](mailto:kat.m.deans@gmail.com)
-* 🖥️  See my portfolio at (https://www.katdeans.com/)
+* 🖥️  See my portfolio at www.katdeans.com
 
 ### Skills
 
